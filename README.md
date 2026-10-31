@@ -42,3 +42,11 @@ The eye cameras are checked against a closed-form prediction in every projection
 ## Licence
 
 GPL-3.0-or-later, as IngeTrazo, whose camera it extends.
+
+## Seen in stereo
+
+IngeTrazo's welcome arch (Yanque), each eye 1920x1080 as handed to the desktop, left eye first; normal style and X-ray style, with the rebar inside the concrete in both eyes.
+
+![The welcome arch in stereo](docs/arch-welcome-sbs.png)
+
+![The welcome arch in stereo, X-ray style](docs/arch-welcome-xray-sbs.png)
